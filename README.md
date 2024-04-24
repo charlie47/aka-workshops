@@ -1,3 +1,3 @@
-# aka-workshops (My)
+# aka-workshops 2
 
 Boilerplate app code taken from: <https://fastify.dev/docs/latest/Guides/Getting-Started/#your-first-server>
